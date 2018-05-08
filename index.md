@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <!-- This file has been downloaded from Bootsnipp.com. Enjoy! -->
-    <title>Vertical Sidebar with Pointy Nav Pills - Bootsnipp.com</title>
+   
         <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="/css/main.css">
     		<script src="/js/jquery-3.3.1.min.js"></script>
