@@ -2,13 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <!-- This file has been downloaded from Bootsnipp.com. Enjoy! -->
    
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" type="text/css" href="/css/main.css">
-    		<script src="/js/jquery-3.3.1.min.js"></script>
-	  <script src="/bootstrap/js/bootstrap.min.js"></script>
-	  <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
 <div class="container-fluid">
@@ -42,57 +36,7 @@
                         <h3> 1.3 Our Partners</h3>
                         <img src="/images/partners.jpg">
                         
-                       
-                    </div>
-                    <div role="tabpanel" class="tab-pane" id="tab2">
-                       <h3>2.Tools</h3>
-                        <h4>2.1 Project place</h4>
-                        <img src="/images/project-place.jpg"> <br/>
-                        <h4>2.2 Innosabi</h4>
-                        <img src="/images/innosabi.jpg"> <br/>
-                        <h4>2.3 Google Drive</h4>
-                        <img src="/images/google-drive.jpg"> <br/>
-                        <h4>2.4 RealTime Board</h4>
-                        <img src="/images/realtime-board.jpg"> <br/>
-                        <h4>2.5 Slack</h4>
-                        <img src="/images/slack.jpg"> <br/>
-                        <h4>2.6 Trello</h4>
-                        <img src="/images/trello.jpg"> <br/>
-                        
-                    </div>
-                    <div role="tabpanel" class="tab-pane" id="tab3">
-                        <h3>3. Services</h3>
-                        <h4>3.1 Create and Build</h4>
-                        <p>
-                            From the start of an idea to a real prototype: Find support for your project and make things realistic! 
-                        </p>
-                        <h4>3.2 Open Source</h4>
-                        <p>
-                           “Don’t reinvent the wheel” Adapt and reuse open source modules and CADs as starting point for your project.
-                        </p>
-                        <h4>3.3 Collaboration</h4>
-                        <p>
-                           Become part of a worldwide community of robotic developers! Share your expertise in exiting robotic projects and learn from each other in interdisciplinary teams.
-                        </p>
-                    </div>
-                    <div role="tabpanel" class="tab-pane" id="tab4">
-                        <h3> Address</h3>
-                        <address>
-                        Fraunhofer-Institut für Produktionstechnik und Automatisierung IPA <br/>
-                            Nobelstr. 12 <br/>
-                            70569 Stuttgart
-                        </address>
-                       <h4>Responsibility for content</h4><br/>
-                        Fraunhofer IPA <br/>
-                        Maik Siee <br/>
-                        T +49 711 970-1603 <br/>
-                        maik.siee@ipa.fraunhofer.de
-                        <iframe width="600" height="450" src="https://maps.google.de/maps?hl=de&q= Fraunhofer+Nobelstr.%2012,%2070569%20Stuttgart&t=&z=12&ie=UTF8&iwloc=B&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" style="region:fraunhofer;"></iframe><br /><small><a href="https://www.siteway.de/maps-generator/" title="Maps für Ihre Homepage">webdesign (c) google</a></small>
-                    </div>
-                </div>
-            </div>
-        </div>
-	</div>
+  
 </div>
 </body>
 </html>
