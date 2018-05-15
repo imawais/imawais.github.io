@@ -29,22 +29,22 @@ The project RoboPORT will build up an interdisciplinary robotic developer commun
 
 ![](/images/project-place.jpg)
 
-2. **Innosabi**
+1. **Innosabi**
 
 ![](/images/innosabi.jpg)
 
-3. **Google Drive**
+1. **Google Drive**
 
 ![](/images/google-drive.jpg)
 
-4. **RealTime Board**
+1. **RealTime Board**
 
 ![](/images/realtime-board.jpg)
 
-5. **Slack**
+1. **Slack**
 
 ![](/images/slack.jpg)
 
-6. **Trello**
+1. **Trello**
 
 ![](/images/trello.jpg)
