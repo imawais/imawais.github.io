@@ -6,7 +6,9 @@ read_time: true
 share: true
 author_profile: false
 permalink: /index/
-
+sidebar:
+  title: Roboport
+  nav: "http://roboport.eu"
 ---
 
 # Overview
