@@ -1,4 +1,4 @@
-# ![](/images/Logo.jpg)
+
 # Overview
 
 ![](/images/main.jpg)
