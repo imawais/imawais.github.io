@@ -7,8 +7,8 @@ The project RoboPORT will build up an interdisciplinary robotic developer commun
 
 **Our Projects**
 
-
 **Roboy**
+
 ![](/images/Roboy.jpg)
 
 **MyOrobotics**
@@ -16,4 +16,5 @@ The project RoboPORT will build up an interdisciplinary robotic developer commun
 <iframe width="420" height="315" src="http://www.youtube.com/embed/da2WufEHOt0" frameborder="0" allowfullscreen></iframe>
 
 **Our Partners**
+
 ![](/images/partners.jpg)
