@@ -1,5 +1,5 @@
 theme: jekyll-theme-leap-day
 locale                   : "en"
-title                    : "Roboport wiki"
+title                    : ![](/images/Logo.jpg)
 title_separator          : "-"
 name                     : "Roboport"
