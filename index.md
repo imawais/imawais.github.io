@@ -2,15 +2,15 @@
 ---
 layout: archive
 lang: en
+ref: turtlebot3_features
 read_time: true
 share: true
 author_profile: false
-permalink: /index/
+permalink: /docs/en/platform/turtlebot3/features/
 sidebar:
-  title: Roboport
-  nav: "http://roboport.eu"
+  title: TurtleBot3
+  nav: "turtlebot3"
 ---
-
 # Overview
 
 ![](/images/main.jpg)
