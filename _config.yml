@@ -1,1 +1,5 @@
 theme: jekyll-theme-leap-day
+locale                   : "en"
+title                    : "Roboport wiki"
+title_separator          : "-"
+name                     : "Roboport"
